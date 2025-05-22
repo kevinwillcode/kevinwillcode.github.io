@@ -20,10 +20,10 @@ author: Kevin Williams Permana
 ###############################################
 
 navbar-links:
-  About: "/aboutme"
   CV: 
     - EN: "/files/en-cv.pdf"
     - DE: "/files/de-cv.pdf"
+  About: "/aboutme"
   Blog: "/blog/main" 
   # 職務経歴: "/files/cv.pdf"
 
