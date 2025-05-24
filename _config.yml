@@ -21,8 +21,8 @@ author: Kevin Williams Permana
 
 navbar-links:
   CV: 
-    - EN: "/files/en-cv.pdf"
-    - DE: "/files/de-cv.pdf"
+    - EN: "/cv_en"
+    - DE: "/cv_de"
   About: "/aboutme"
   Blog: "/blog/main" 
   # 職務経歴: "/files/cv.pdf"

@@ -1,0 +1,130 @@
+---
+layout: page
+---
+<!-- Überschrift und Beschreibung -->
+<h2 style="text-align: center;">Lebenslauf - Kevin Williams Permana</h2>
+
+<!-- Canva-Lebenslauf-Schaltflächen -->
+<div class="cv-button-wrapper">
+  <div class="cv-button-group">
+    <a class="cv-button download" href="https://www.canva.com/design/DAGoKy0nmaQ/7dknI7bTq4m7f2rn1DU3zA/view" download>
+      📄 Lebenslauf herunterladen (PDF)
+    </a>
+    <a class="cv-button" href="https://www.canva.com/design/DAGoKy0nmaQ/7dknI7bTq4m7f2rn1DU3zA/view" target="_blank" rel="noopener">
+      🔍 Vollständigen Online-Lebenslauf ansehen
+    </a>
+  </div>
+</div>
+
+<!-- Canva Embed -->
+<div class="canva-container">
+  <a class="iframe-overlay" href="https://www.canva.com/design/DAGoKy0nmaQ/7dknI7bTq4m7f2rn1DU3zA/view" target="_blank" rel="noopener" aria-label="Open CV on Canva"></a>
+  <iframe
+    loading="lazy"
+    src="https://www.canva.com/design/DAGoKy0nmaQ/7dknI7bTq4m7f2rn1DU3zA/view?embed"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<!-- Styles -->
+<style>
+  .cv-button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto;
+    max-width: 850px;
+    width: 91.6%;
+  }
+
+  .cv-button-group {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .cv-button {
+    background-color: #93c5fd;
+    color: #1e3a8a;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  }
+
+  .cv-button:hover {
+    background-color: #60a5fa;
+    color: #0c1c4a;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .cv-button.download {
+    background-color: #bbf7d0;
+    color: #166534;
+  }
+
+  .cv-button.download:hover {
+    background-color: #86efac;
+    color: #14532d;
+  }
+
+  .canva-container {
+    max-width: 850px;
+    width: 91.6%;
+    margin: 1.5rem auto 1rem auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    overflow: hidden;
+    background-color: white;
+    position: relative;
+    padding-top: calc(100% * (11 / 8.5)); /* A4 ratio */
+  }
+
+  .canva-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    z-index: 1;
+  }
+
+  .iframe-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    display: block;
+    background: transparent;
+  }
+
+  @media (max-width: 600px) {
+    .cv-button-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .cv-button-group {
+      flex-direction: column;
+      width: 100%;
+      gap: 0.75rem;
+    }
+
+    .cv-button {
+      font-size: 15px;
+      padding: 8px 16px;
+      text-align: center;
+      width: 100%;
+    }
+
+    .canva-container {
+      width: 91.569%;
+      padding-top: calc(100% * (11 / 8.5));
+    }
+  }
+</style>
