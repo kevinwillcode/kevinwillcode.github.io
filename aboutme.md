@@ -13,9 +13,9 @@ layout: page
 </div><br>
 
 ### My Story
-As a Data Engineer, I am excited about working with data systems and cloud technology. I focus on building good data pipelines, making big data processing faster, and finding ways to save costs. I always feel happy and excited when I start a new project. The more I learn about these tools, the more I find them interesting and useful.
+As a Data Engineer, I’m passionate about building and optimizing data solutions that drive cost-efficiency. My journey began with on-premise systems, where I’ve had hands-on experience using a variety of open-source tools to solve real-world data problems—from pipeline development and orchestration to system integration and performance tuning. What excites me the most is the challenge of designing smart, scalable systems that deliver impact while staying lean and efficient.
 
-When I’m not working, I like to spend time outside and enjoy nature. I often think about how data is like the ocean — very big and full of possibilities. Whether I’m hiking, relaxing near water, or just taking a walk, being in nature makes me feel calm and happy.
+In my free time, I spend a lot of time around music, church, and social activities. I love learning and playing music, especially when I get to use it to support services at church. But it’s not just music—I also like helping out in other areas when needed. Being involved in social activities is something I enjoy too. It’s always interesting to meet people, learn something new, and feel like I’m making a small difference.
 
 ### IT Skills
 
